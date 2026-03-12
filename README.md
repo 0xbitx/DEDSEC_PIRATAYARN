@@ -22,7 +22,8 @@ Whether you're archiving a YouTube playlist, saving a TikTok clip, or pulling do
 - **Fast & Lightweight** - compressed code for maximum speed
 - **Content Type Detection** - Auto-detects whether a link contains video, audio, or images
 - **API Failover** - Automatically cycles through multiple API keys for reliability
-
+- **Zero External Dependencies** - Runs entirely on Python's standard library
+  
 ##  Supported Sites
 
 <details>
@@ -70,7 +71,6 @@ Whether you're archiving a YouTube playlist, saving a TikTok clip, or pulling do
 ### INSTALLATION
     * git clone https://github.com/0xbitx/DEDSEC_PIRATAYARN.git
     * cd DEDSEC_PIRATAYARN
-    * pip3 install tabulate --break-system-packages
     * chmod +x dedsec_piratayarn
     * ./dedsec_piratayarn
 
