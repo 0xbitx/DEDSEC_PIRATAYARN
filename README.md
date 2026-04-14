@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBkbXg3MnQ4bnY0OHA5eTVleW9hMmhidXg0aWFuZG1lYzk2dW8yNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4EoYvSFAO0BjGcU0/giphy.gif", width="400", height="400">
+<img src="https://github.com/user-attachments/assets/f315f9d4-4d4a-4b51-bea9-8aea49da583d", width="400", height="400">
 </p>
 
 <h1 align="center">PIRATAYARN</h1>
